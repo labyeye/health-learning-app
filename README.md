@@ -57,9 +57,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch.
 5. Open a pull request.
 
-## 📧 Contact
-For any inquiries, please reach out to us at [email@example.com](mailto:email@example.com).
-
 ## 📜 License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
